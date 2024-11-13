@@ -1,0 +1,357 @@
+(footprint "Xiao_nRF52840_AC_Reflow"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Footprint for Seeduino Xiao nRF52840 controllers, made for SMD reflow")
+	(property "Reference" "U1"
+		(at -9.365732 9.86319 0)
+		(layer "F.SilkS")
+		(uuid "56b48f5b-5494-408f-93e8-96e7de659e2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify right)
+		)
+	)
+	(property "Value" "Seeeduino Xiao nRF52840"
+		(at 0 6.985 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d9b59d38-cc67-409a-88fe-7e180968abeb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "PCM_marbastlib-xp-promicroish:Xiao_nRF52840_AC_Reflow"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c733816e-bb76-4aa3-93b6-7af3fea865cc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac528d1f-e5c3-4951-b25a-8f13a5a3ffdc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Symbol for a Seeeduino Xiao nRF52840"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c1262c3c-d874-4e22-a931-7600951f9165")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd exclude_from_pos_files exclude_from_bom)
+	(fp_line
+		(start -6.890001 -10.63)
+		(end 6.889999 -10.63)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "131e4690-c5a6-4e24-988f-acac3adab524")
+	)
+	(fp_line
+		(start -4.500881 -4.6355)
+		(end -4.500881 -10.63)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d51e4fb9-ce0d-43c2-9715-d7d73d3d02ba")
+	)
+	(fp_line
+		(start 4.500879 -4.6355)
+		(end -4.500881 -4.6355)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5bf3b02f-7d92-474e-9983-3543eb4d2d45")
+	)
+	(fp_line
+		(start 4.500879 -4.6355)
+		(end 4.500879 -10.63)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "34320a38-3cd1-495d-8994-ed9881c0176a")
+	)
+	(fp_line
+		(start 6.889999 10.6775)
+		(end -6.890001 10.6775)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bf0b0082-f540-4a19-8db6-658891f30ca3")
+	)
+	(fp_arc
+		(start -9.055742 -8.816738)
+		(mid -8.302299 -10.116834)
+		(end -6.890001 -10.63)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a851b959-1a12-40f2-a4b8-5b4c273d096e")
+	)
+	(fp_arc
+		(start -6.89 10.6775)
+		(mid -8.302299 10.164335)
+		(end -9.055742 8.864239)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "87dc735f-4de0-41b8-b144-e69930591a0a")
+	)
+	(fp_arc
+		(start 6.889999 -10.63)
+		(mid 8.302298 -10.116835)
+		(end 9.05574 -8.816738)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "05724824-9ccc-4d3e-9f3e-17149ac455e9")
+	)
+	(fp_arc
+		(start 9.05574 8.864238)
+		(mid 8.302298 10.164335)
+		(end 6.889999 10.6775)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "173aff31-382e-4d35-901a-07b0d9521329")
+	)
+	(fp_rect
+		(start -8.890001 -10.43)
+		(end 8.889999 10.4775)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "2201d637-4b85-462e-884d-5b7cd16baa60")
+	)
+	(fp_rect
+		(start -4.500881 -11.98626)
+		(end 4.500879 -4.6355)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "e1829ae2-364b-48cb-b1c8-0f33d361c2f6")
+	)
+	(fp_text user "1"
+		(at -7.62 -8.82 0)
+		(layer "F.SilkS")
+		(uuid "cc3268a3-3197-48fd-89f1-5703f919c545")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom)
+		)
+	)
+	(fp_text user "BAT+"
+		(at -2.889999 0.28425 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ef17605d-1690-4406-8ad0-f1bd1de26d6d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "BAT-"
+		(at -2.889999 -1.62075 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f690ce17-cd69-4bf8-9004-fc1fd7541565")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "USB"
+		(at -0.000001 -10.6425 0)
+		(layer "Cmts.User")
+		(uuid "7d9df350-d78a-48da-ab53-c6fabc528e22")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -8.92 -7.62)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "9fcbb1b7-125e-4946-9381-3244b9c15e07")
+	)
+	(pad "2" smd roundrect
+		(at -8.92 -5.08)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "6923c81f-fb3f-4df5-b8c2-f57440a69a98")
+	)
+	(pad "3" smd roundrect
+		(at -8.92 -2.54)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "cad34d3a-40f7-46b5-a07a-198f95aa1f42")
+	)
+	(pad "4" smd roundrect
+		(at -8.92 0)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "7a73ef62-ecaa-4ff2-9795-d8a90ba5973c")
+	)
+	(pad "5" smd roundrect
+		(at -8.92 2.54)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "8dc4f646-e9da-42a9-8911-0f6bfadc9795")
+	)
+	(pad "6" smd roundrect
+		(at -8.92 5.08)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "6296405b-4c2e-4086-8d2c-8b672620dcca")
+	)
+	(pad "7" smd roundrect
+		(at -8.92 7.62)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "585194c3-0af1-469e-8cd5-773fe5fbbdf4")
+	)
+	(pad "8" smd roundrect
+		(at 8.92 -7.62 180)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "9b3999ae-e8b4-4d1e-b003-aefa652df827")
+	)
+	(pad "9" smd roundrect
+		(at 8.92 -5.08 180)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "7d9997c7-56c8-45ef-af5a-f41116e7bfea")
+	)
+	(pad "10" smd roundrect
+		(at 8.92 -2.539999 180)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "5bd723b0-6e5e-4a00-be41-76171ccfc2ab")
+	)
+	(pad "11" smd roundrect
+		(at 8.92 0 180)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "d1b5edf1-5391-46d4-a632-ba14a46e61b6")
+	)
+	(pad "12" smd roundrect
+		(at 8.92 2.54 180)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "94b39e78-b093-4fb1-a0ec-3204613d30aa")
+	)
+	(pad "13" smd roundrect
+		(at 8.92 5.08)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "2a3a09c3-319e-4a35-a48f-ba8d3bb85a01")
+	)
+	(pad "14" smd roundrect
+		(at 8.92 7.62)
+		(size 3.5 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "da21e6e7-8fd3-439a-ac6a-76e64e989b4a")
+	)
+	(pad "15" smd roundrect
+		(at -4.445001 -2.2225)
+		(size 2.5 1.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "d0eafc1e-e233-4e7b-856a-a3622e95d5d7")
+	)
+	(pad "16" smd roundrect
+		(at -4.445002 -0.3175)
+		(size 2.5 1.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "49d20c8f-9773-47de-9aca-1ac9006216b5")
+	)
+	(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/seeeduino_xiao_rp2040.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

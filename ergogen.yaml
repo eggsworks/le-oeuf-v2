@@ -1,0 +1,106 @@
+meta:
+  engine: 4.0.0
+  name: le_capybara
+  version: 0.1
+  author: sporkus
+  url: https://github.com/sporkus/
+
+presets:
+  x_spaced:
+    capx: 16.85
+    capy: capx
+    kx: 17
+    ky: kx
+    edge_cut_padding: 1
+    split_angle: 7
+
+    # distance from inner top key to knob/center switch
+    centerx: 24.347
+    centery: 5.202
+
+    originx: 120
+    originy: -100
+
+units:
+  $extends: presets.x_spaced
+  edgex: capx/2 + edge_cut_padding  #distance from middle of the switch to pcb edge
+  edgey: capy/2 + edge_cut_padding
+
+
+points:
+  # Keys/Switches
+  # =============
+  zones.matrix:
+    mirror: &mirror
+      ref: matrix_inner_top
+      shift: [0, 0]
+      distance: 24.347 * 2
+    anchor.shift: [originx, originy]
+    rotate: -split_angle
+    key:
+      width: capx
+      height: capy
+      spread: kx
+      padding: ky
+      bind: [edgex, edgey]
+    rows:
+      bottom:
+      home:
+      top:
+    columns:
+      pinky:
+      ring.key:
+        stagger: 1/4ky
+      middle.key:
+        stagger: 0.25ky
+      index.key:
+        stagger: -0.25ky
+      inner:
+
+  zones.3thumbs:
+    mirror: *mirror
+    key:
+      $extends: points.zones.matrix.key
+      width: 1 * capx
+    anchor:
+      - ref: matrix_ring_bottom
+        shift: [kx, -ky]
+    columns:
+      3rd:
+      2nd:
+      main:
+        key:
+          width: 1 * capx
+
+outlines:
+  _switch_pos:
+    - what: circle
+      where:
+        - /matrix_.*/
+        - /.*thumb.*/
+        - /knob/
+      radius: 1
+      bound: false
+  _switch_comment:
+    - what: rectangle
+      operation: stack
+      where:
+        - /matrix_.*/
+        - /.thumb.*/
+        - /knob/
+      size: [kx, ky]
+      bound: false
+  _keycaps:
+    - what: rectangle
+      where:
+        - /matrix_.*/
+        - /.*thumb.*/
+      size: [capx, capy]
+      bound: false
+  
+  kicad_ref:
+    - ^_switch_pos
+    - ^_switch_comment
+
+  kicad_center:
+    - ^_switch_pos
