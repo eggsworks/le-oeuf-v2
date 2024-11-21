@@ -1,9 +1,9 @@
 meta:
   engine: 4.0.0
-  name: le_capybara
+  name: le_oeuf
   version: 0.1
-  author: sporkus
-  url: https://github.com/sporkus/
+  author: tmick0
+  url: https://github.com/eggsworks/
 
 presets:
   x_spaced:

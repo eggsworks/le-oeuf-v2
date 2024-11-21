@@ -481,11 +481,11 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "svg",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "",
+      "step": "le-oeuf.step",
+      "svg": "svg/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
