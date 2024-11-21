@@ -31,11 +31,11 @@ Case files coming soon :D
 
 ZMK firmware available from [eggsworks/zmk-config](https://github.com/eggsworks/zmk-config/)
 
-### License
+## License
 
 This design is available under the terms of the [CERN-OHL-S](LICENSE).
 
-### Acknowledgements
+## Acknowledgements
 
 - MCU footprint derived from [marbastlib](https://github.com/ebastler/marbastlib/)
 - Switch footprint derived from [kicad-footprint-kailh-pg1425-x-switch](https://github.com/shikamiya/kicad-footprint-kailh-pg1425-x-switch)
