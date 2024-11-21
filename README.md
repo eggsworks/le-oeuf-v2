@@ -8,8 +8,8 @@ A low profile (Kailh PG1425 "X Switch") keyboard inspired by Le Chiffre.
 
 ### BOM
 
-- 26x 1N4148 diodes, SOD-123
-- 26x Kailh PG1425
+- 36x 1N4148 diodes, SOD-123
+- 36x Kailh PG1425
 - 1x 74HC595D shift register, SOP-16
 - 1x Seeed Studio XIAO RP2040
 
