@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "x-switch")(type "KiCad")(uri "${KIPRJMOD}/libs/kailh-pg1425-x-switch.pretty")(options "")(descr ""))
   (lib (name "le-oeuf")(type "KiCad")(uri "${KIPRJMOD}/le-oeuf.pretty")(options "")(descr ""))
+  (lib (name "pg1316")(type "KiCad")(uri "${KIPRJMOD}/libs/PG1316")(options "")(descr ""))
 )
