@@ -10719,7 +10719,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering"
+		(property "Footprint" "Crystal:Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm"
 			(at 249.555 141.605 0)
 			(effects
 				(font
@@ -11624,7 +11624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 78.74 142.24 0)
 			(effects
 				(font
@@ -14936,7 +14936,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 203.2 97.79 0)
 			(effects
 				(font
@@ -19956,7 +19956,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 222.25 121.92 0)
 			(effects
 				(font

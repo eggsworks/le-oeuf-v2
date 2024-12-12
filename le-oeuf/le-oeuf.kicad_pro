@@ -589,8 +589,8 @@
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Footprint"
+      "sort_asc": false,
+      "sort_field": "${QUANTITY}"
     },
     "connection_grid_size": 50.0,
     "drawing": {
