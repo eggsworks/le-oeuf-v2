@@ -10161,7 +10161,7 @@
 		(at 179.705 147.32 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10210,6 +10210,24 @@
 			)
 		)
 		(property "LCSC" "C1588"
+			(at 179.705 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1588"
+			(at 179.705 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 179.705 147.32 0)
 			(effects
 				(font
@@ -10295,6 +10313,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0603CG120J500NT"
+			(at 252.095 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 252.095 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fb63c228-904f-48d2-80a4-3e3c8cc85a97")
 		)
@@ -10315,7 +10351,7 @@
 		(at 218.44 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10356,6 +10392,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 218.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 218.44 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 218.44 59.69 0)
 			(effects
 				(font
@@ -10453,6 +10507,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 58.42 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 58.42 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 58.42 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d9cced1b-90b9-427f-a2ed-7d164c2888a3")
 		)
@@ -10473,7 +10554,7 @@
 		(at 167.64 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10514,6 +10595,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 167.64 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 167.64 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 167.64 30.48 0)
 			(effects
 				(font
@@ -10603,6 +10702,33 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 198.12 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C191023"
+			(at 198.12 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 198.12 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
 			(at 198.12 76.2 0)
 			(effects
 				(font
@@ -10710,7 +10836,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "32.768kHz"
+		(property "Value" "32.768kHz 9pF"
 			(at 236.855 142.875 90)
 			(effects
 				(font
@@ -10747,6 +10873,24 @@
 			)
 		)
 		(property "LCSC" "C383846"
+			(at 249.555 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "X161032768KLD2SI"
+			(at 249.555 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YXC Crystal Oscillators"
 			(at 249.555 141.605 0)
 			(effects
 				(font
@@ -10836,6 +10980,33 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 83.82 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C191023"
+			(at 83.82 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 83.82 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
 			(at 83.82 62.23 0)
 			(effects
 				(font
@@ -10999,6 +11170,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 83.82 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 83.82 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 83.82 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9c357a8c-1c32-4825-bcc4-c63db000ad81")
 		)
@@ -11019,7 +11217,7 @@
 		(at 104.14 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11060,6 +11258,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 104.14 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 104.14 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 104.14 73.66 0)
 			(effects
 				(font
@@ -11144,6 +11360,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0603FR-071KL"
+			(at 271.78 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 271.78 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b012389a-2a4a-4feb-991e-20038cbed790")
 		)
@@ -11164,7 +11398,7 @@
 		(at 218.44 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11205,6 +11439,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 218.44 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 218.44 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 218.44 45.72 0)
 			(effects
 				(font
@@ -11298,7 +11550,7 @@
 		(at 129.54 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11347,6 +11599,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 129.54 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 129.54 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "099f79be-89fc-4a25-88fe-d66543c8f1eb")
 		)
@@ -11367,7 +11637,7 @@
 		(at 193.04 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11408,6 +11678,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 193.04 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 193.04 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 193.04 73.66 0)
 			(effects
 				(font
@@ -11505,6 +11793,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 58.42 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 58.42 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 58.42 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b9854cf9-d7b6-4a14-bf97-dde4080b982a")
 		)
@@ -11573,6 +11888,24 @@
 			)
 		)
 		(property "LCSC" "C21714236"
+			(at 106.68 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MBR0530WS"
+			(at 106.68 183.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CBI"
 			(at 106.68 183.515 0)
 			(effects
 				(font
@@ -11660,6 +11993,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "MLF1608E100JT000"
+			(at 78.74 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 78.74 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ec7d7840-7982-4465-8084-d00a1fbba575")
 		)
@@ -11739,6 +12090,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10A475KO8NNNC"
+			(at 135.255 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 135.255 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e84b7397-8132-466d-a905-12555e166a9d")
 		)
@@ -11759,7 +12128,7 @@
 		(at 104.14 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11808,6 +12177,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 104.14 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 104.14 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4adff85d-16d1-49bf-a4eb-2cbc700184e8")
 		)
@@ -11828,7 +12215,7 @@
 		(at 179.705 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -11877,6 +12264,24 @@
 			)
 		)
 		(property "LCSC" "C22935"
+			(at 179.705 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF1004T5E"
+			(at 179.705 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
 			(at 179.705 139.7 0)
 			(effects
 				(font
@@ -11953,7 +12358,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C375561"
+		(property "LCSC" "C375561"
+			(at 131.445 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "E6CC1206URAC1UDA"
+			(at 131.445 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "EKINGLUX"
 			(at 131.445 141.605 0)
 			(effects
 				(font
@@ -12116,6 +12539,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 198.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 198.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 198.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "12cedbef-331d-49f7-af1d-b26ead67c856")
 		)
@@ -12184,6 +12634,24 @@
 			)
 		)
 		(property "LCSC" "C356849"
+			(at 45.72 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C356849"
+			(at 45.72 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Chengdu Ebyte Elec Tech"
 			(at 45.72 152.4 0)
 			(effects
 				(font
@@ -12400,7 +12868,7 @@
 		(at 159.385 102.235 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "3ff91be2-e764-4946-99bf-d70ef5130a9a")
@@ -12441,6 +12909,24 @@
 			)
 		)
 		(property "Description" "6-pin TC2030 connector for SWD programming"
+			(at 159.385 102.235 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 159.385 102.235 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 159.385 102.235 0)
 			(effects
 				(font
@@ -12680,6 +13166,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 109.22 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 109.22 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 109.22 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f05ddb92-9478-499f-9e7f-94399d39727f")
 		)
@@ -12700,7 +13213,7 @@
 		(at 193.04 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12741,6 +13254,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 193.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 193.04 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 193.04 45.72 0)
 			(effects
 				(font
@@ -12838,6 +13369,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 274.32 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 274.32 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 274.32 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0b7815a2-0697-4e26-a84f-5ec09e7246a1")
 		)
@@ -12919,6 +13477,33 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 58.42 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C191023"
+			(at 58.42 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 58.42 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
 			(at 58.42 48.26 0)
 			(effects
 				(font
@@ -13016,6 +13601,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 134.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 134.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 134.62 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "65ce47f1-d992-400d-a930-75a73769a5a0")
 		)
@@ -13036,7 +13648,7 @@
 		(at 167.64 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13085,6 +13697,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 167.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 167.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "253a6bd7-5a32-43da-a841-72f08393836a")
 		)
@@ -13105,7 +13735,7 @@
 		(at 243.84 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13146,6 +13776,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 243.84 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 243.84 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 243.84 30.48 0)
 			(effects
 				(font
@@ -13308,6 +13956,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 172.72 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 172.72 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 172.72 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c70037d4-b72e-4772-9934-f0d8ff26706c")
 		)
@@ -13462,6 +14137,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 33.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 33.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 33.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f1927c75-0840-464d-8ac9-0480de80c6c0")
 		)
@@ -13551,6 +14253,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 109.22 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 109.22 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 109.22 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d33fefb5-e55d-46e4-9b13-161798795df8")
 		)
@@ -13571,7 +14300,7 @@
 		(at 218.44 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13620,6 +14349,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 218.44 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 218.44 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "54613c8a-23ae-4b3b-90bb-4577d9c47473")
 		)
@@ -13653,7 +14400,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_PUSH"
+		(property "Value" "EVQPUC02K"
 			(at 135.255 109.347 0)
 			(effects
 				(font
@@ -13687,7 +14434,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C388883"
+		(property "LCSC" "C79174"
+			(at 135.255 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "EVQPUC02K"
+			(at 135.255 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
 			(at 135.255 107.315 0)
 			(effects
 				(font
@@ -13716,7 +14481,7 @@
 		(at 212.725 109.22 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "60d76600-c30a-4dde-9dd7-613ee821bf84")
@@ -13766,6 +14531,24 @@
 			)
 		)
 		(property "LCSC" "C105580"
+			(at 212.725 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-075K1L"
+			(at 212.725 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
 			(at 212.725 109.22 0)
 			(effects
 				(font
@@ -13860,7 +14643,7 @@
 		(at 269.24 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13901,6 +14684,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 269.24 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 269.24 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 269.24 45.72 0)
 			(effects
 				(font
@@ -13978,6 +14779,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 132.715 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 132.715 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3f080e7-49a7-402d-94af-6d2e656b2818")
 		)
@@ -13998,7 +14817,7 @@
 		(at 261.62 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6b99725e-29eb-40c5-9f7f-9621fee860a4")
@@ -14046,6 +14865,24 @@
 			)
 		)
 		(property "LCSC" "C375563"
+			(at 261.62 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "E6CC1206QBAC1UDA"
+			(at 261.62 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "EKINGLUX"
 			(at 261.62 110.49 0)
 			(effects
 				(font
@@ -14143,6 +14980,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 33.02 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 33.02 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 33.02 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d42de2cd-e1b8-4264-8557-bbf003670c0c")
 		)
@@ -14163,7 +15027,7 @@
 		(at 208.915 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14221,6 +15085,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "BSMD1206-050-6V"
+			(at 208.915 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "BHFUSE"
+			(at 208.915 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "55d8a6cb-c4fb-48d2-bae1-027b5bbb8a1d")
 		)
@@ -14241,7 +15123,7 @@
 		(at 129.54 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14282,6 +15164,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 129.54 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 129.54 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 129.54 30.48 0)
 			(effects
 				(font
@@ -14379,6 +15279,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 134.62 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 134.62 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 134.62 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "271eb75d-4ef0-40c8-ba0b-39e9dc80fe72")
 		)
@@ -14399,7 +15326,7 @@
 		(at 78.74 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14440,6 +15367,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 78.74 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 78.74 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 78.74 45.72 0)
 			(effects
 				(font
@@ -14537,6 +15482,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 223.52 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 223.52 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 223.52 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "127c16fd-d2a2-4607-b591-4bee68805682")
 		)
@@ -14557,7 +15529,7 @@
 		(at 78.74 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14598,6 +15570,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 78.74 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 78.74 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 78.74 73.66 0)
 			(effects
 				(font
@@ -14692,7 +15682,7 @@
 		(at 104.14 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14741,6 +15731,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 104.14 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 104.14 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67988571-9506-4c82-9939-ce2147cdef0d")
 		)
@@ -14774,7 +15782,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery JST"
+		(property "Value" "BM02B-ACHSS-GAN-ETF"
 			(at 133.4262 123.571 0)
 			(effects
 				(font
@@ -14810,7 +15818,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C160402"
+		(property "LCSC" "C5118738"
+			(at 132.715 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BM02B-ACHSS-GAN-ETF(LF)(SN)"
+			(at 132.715 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "JST"
 			(at 132.715 120.65 0)
 			(effects
 				(font
@@ -14896,6 +15922,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0603WAF3001T5E"
+			(at 100.965 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 100.965 136.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8a7d5c23-348a-44de-bf8d-9700e45ecfdb")
 		)
@@ -14916,7 +15960,7 @@
 		(at 203.2 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "79e23818-7e2c-459d-bc76-29c280bde9d7")
@@ -14965,6 +16009,24 @@
 		)
 		(property "LCSC" "C919153"
 			(at 203.2 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HPZ1608U121-2R0TF"
+			(at 203.2 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Sunlord"
+			(at 203.2 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15053,6 +16115,33 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 274.32 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C191023"
+			(at 274.32 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 274.32 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
 			(at 274.32 62.23 0)
 			(effects
 				(font
@@ -15211,7 +16300,7 @@
 		(at 193.04 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15252,6 +16341,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 193.04 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 193.04 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 193.04 30.48 0)
 			(effects
 				(font
@@ -15349,6 +16456,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 83.82 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 83.82 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 83.82 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e0e867e5-bc99-4d9a-a9ff-999d57dbcb10")
 		)
@@ -15369,7 +16503,7 @@
 		(at 243.84 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15410,6 +16544,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 243.84 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 243.84 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 243.84 59.69 0)
 			(effects
 				(font
@@ -15507,6 +16659,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 172.72 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 172.72 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 172.72 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "488202ba-872d-482a-b447-4628947498b2")
 		)
@@ -15596,6 +16775,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 223.52 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 223.52 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 223.52 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "08fb00b0-e66f-4b47-ae49-7228afaa8c1e")
 		)
@@ -15616,7 +16822,7 @@
 		(at 205.74 144.145 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "8aa18078-ff07-47cb-9ab3-2d5e8d747d0c")
@@ -15672,6 +16878,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "TPUSBLC6-2SC6"
+			(at 205.74 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TECH PUBLIC"
+			(at 205.74 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3dfd479a-f0ce-4595-a8aa-5d1b8425950c")
 		)
@@ -15704,7 +16928,7 @@
 		(at 104.14 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15753,6 +16977,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 104.14 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 104.14 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bdcec7cb-7c75-4f11-806a-01c1ae25101b")
 		)
@@ -15773,7 +17015,7 @@
 		(at 53.34 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15814,6 +17056,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 53.34 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 53.34 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 53.34 59.69 0)
 			(effects
 				(font
@@ -15957,6 +17217,24 @@
 			)
 		)
 		(property "LCSC" "C19666"
+			(at 123.19 153.035 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A475KO8NNNC"
+			(at 123.19 153.035 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 123.19 153.035 0)
 			(effects
 				(font
@@ -16119,6 +17397,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 33.02 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 33.02 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 33.02 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c97c0f88-de51-4dac-9ca7-b864862bb2ca")
 		)
@@ -16139,7 +17444,7 @@
 		(at 269.24 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16180,6 +17485,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 269.24 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 269.24 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 269.24 59.69 0)
 			(effects
 				(font
@@ -16339,7 +17662,7 @@
 		(at 27.94 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16380,6 +17703,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 27.94 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 27.94 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 27.94 59.69 0)
 			(effects
 				(font
@@ -16461,6 +17802,24 @@
 			)
 		)
 		(property "LCSC" "C5148473"
+			(at 109.22 174.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AO3407"
+			(at 109.22 174.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "BORN"
 			(at 109.22 174.625 0)
 			(effects
 				(font
@@ -16626,6 +17985,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 172.72 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 172.72 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 172.72 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c1d1ff93-92e3-4d94-b750-6a688e630ab7")
 		)
@@ -16646,7 +18032,7 @@
 		(at 215.265 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9dc7f5cc-49eb-40f7-ab66-ef80428381d2")
@@ -16696,6 +18082,24 @@
 			)
 		)
 		(property "LCSC" "C105580"
+			(at 215.265 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-075K1L"
+			(at 215.265 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
 			(at 215.265 109.22 0)
 			(effects
 				(font
@@ -16781,6 +18185,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0603FR-071KL"
+			(at 122.555 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 122.555 141.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5859d1e0-63c3-4660-9e7a-6fbdbc55ac90")
 		)
@@ -16801,7 +18223,7 @@
 		(at 193.04 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16842,6 +18264,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 193.04 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 193.04 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 193.04 59.69 0)
 			(effects
 				(font
@@ -16939,6 +18379,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 109.22 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 109.22 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 109.22 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23563546-13df-4de2-a1d2-33fa0559d9fc")
 		)
@@ -17010,6 +18477,24 @@
 			)
 		)
 		(property "LCSC" "C14675"
+			(at 106.68 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-07100KL"
+			(at 106.68 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
 			(at 106.68 186.69 0)
 			(effects
 				(font
@@ -17107,6 +18592,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 198.12 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 198.12 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 198.12 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9595f34b-b5ae-4598-9883-3e472a3699a6")
 		)
@@ -17127,7 +18639,7 @@
 		(at 78.74 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17168,6 +18680,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 78.74 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 78.74 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 78.74 30.48 0)
 			(effects
 				(font
@@ -17265,6 +18795,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 134.62 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 134.62 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 134.62 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "04df9e9a-c0a5-413b-ad48-92925069ca13")
 		)
@@ -17285,7 +18842,7 @@
 		(at 78.74 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17326,6 +18883,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 78.74 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 78.74 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 78.74 59.69 0)
 			(effects
 				(font
@@ -17421,7 +18996,7 @@
 		(at 129.54 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17470,6 +19045,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 129.54 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 129.54 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ed1c2eb0-4d66-4eae-94ce-8219363f4a4b")
 		)
@@ -17490,7 +19083,7 @@
 		(at 27.94 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17531,6 +19124,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 27.94 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 27.94 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 27.94 30.48 0)
 			(effects
 				(font
@@ -17628,6 +19239,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 109.22 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 109.22 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 109.22 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bb1c961f-4a9a-4e78-af73-7e2059d66055")
 		)
@@ -17648,7 +19286,7 @@
 		(at 53.34 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17689,6 +19327,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 53.34 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 53.34 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 53.34 45.72 0)
 			(effects
 				(font
@@ -17786,6 +19442,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 83.82 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 83.82 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 83.82 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ef11e0a-4d59-4f00-9e7d-d7f62b81ac6e")
 		)
@@ -17872,7 +19555,7 @@
 		(at 167.64 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17913,6 +19596,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 167.64 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 167.64 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 167.64 59.69 0)
 			(effects
 				(font
@@ -18010,6 +19711,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 248.92 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 248.92 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 248.92 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e4a88b6b-62f8-4f9c-b29e-a2620e60c428")
 		)
@@ -18096,7 +19824,7 @@
 		(at 269.24 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18137,6 +19865,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 269.24 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 269.24 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 269.24 30.48 0)
 			(effects
 				(font
@@ -18231,7 +19977,7 @@
 		(at 167.64 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18272,6 +20018,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 167.64 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 167.64 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 167.64 45.72 0)
 			(effects
 				(font
@@ -18369,6 +20133,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 198.12 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 198.12 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 198.12 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a9cdcb9f-8e50-463f-8e7b-d8a864029792")
 		)
@@ -18439,7 +20230,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C424093"
+		(property "LCSC" "C5381776"
+			(at 108.585 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TP4054"
+			(at 108.585 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "JSMSEMI"
 			(at 108.585 144.145 0)
 			(effects
 				(font
@@ -18546,6 +20355,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 172.72 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 172.72 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 172.72 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f5c6fbfa-2f0d-4de2-94a4-dc48216c1080")
 		)
@@ -18566,7 +20402,7 @@
 		(at 223.52 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18615,6 +20451,24 @@
 			)
 		)
 		(property "LCSC" "C151996"
+			(at 223.52 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BSD3C051V"
+			(at 223.52 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "BORN"
 			(at 223.52 124.46 0)
 			(effects
 				(font
@@ -18712,6 +20566,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 223.52 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 223.52 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 223.52 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0f3b6ec2-8c91-437d-b2da-d319048092af")
 		)
@@ -18801,6 +20682,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 248.92 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 248.92 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 248.92 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a2bf77a9-6f76-4981-9d47-7484a62a1a70")
 		)
@@ -18821,7 +20729,7 @@
 		(at 218.44 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18870,6 +20778,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 218.44 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 218.44 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "87571e2c-af76-40dd-8aab-cc079ae906b1")
 		)
@@ -18890,7 +20816,7 @@
 		(at 183.515 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "d8ab8935-654d-406d-b17c-cbdce6d999ef")
@@ -18902,7 +20828,7 @@
 				)
 			)
 		)
-		(property "Value" "USB-C Conn"
+		(property "Value" "TYPE-C-31-M-12"
 			(at 183.515 93.98 0)
 			(effects
 				(font
@@ -18938,6 +20864,24 @@
 			)
 		)
 		(property "LCSC" "C165948"
+			(at 183.515 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TYPE-C-31-M-12"
+			(at 183.515 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Korean Hroparts Elec"
 			(at 183.515 113.03 0)
 			(effects
 				(font
@@ -19060,6 +21004,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 135.255 95.885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 135.255 95.885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59af3cd1-aaa5-4247-8df1-e3f400f7b159")
 		)
@@ -19135,6 +21097,24 @@
 			)
 		)
 		(property "LCSC" "C1642"
+			(at 252.095 149.225 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603CG120J500NT"
+			(at 252.095 149.225 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
 			(at 252.095 149.225 0)
 			(effects
 				(font
@@ -19232,6 +21212,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 223.52 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 223.52 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 223.52 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d98f14c5-55e0-4840-b02d-07cc32078d61")
 		)
@@ -19265,7 +21272,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_PUSH"
+		(property "Value" "EVQPUC02K"
 			(at 45.72 115.062 0)
 			(effects
 				(font
@@ -19299,7 +21306,25 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C388883"
+		(property "LCSC" "C79174"
+			(at 45.72 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "EVQPUC02K"
+			(at 45.72 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
 			(at 45.72 113.03 0)
 			(effects
 				(font
@@ -19328,7 +21353,7 @@
 		(at 243.84 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19369,6 +21394,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 243.84 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 243.84 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 243.84 45.72 0)
 			(effects
 				(font
@@ -19531,6 +21574,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 134.62 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 134.62 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 134.62 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "410b2f7e-7577-45f3-9e93-9888f9256641")
 		)
@@ -19551,7 +21621,7 @@
 		(at 53.34 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19600,6 +21670,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 53.34 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 53.34 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "87142e0f-2020-4796-b3f1-5e114fcc907b")
 		)
@@ -19620,7 +21708,7 @@
 		(at 27.94 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19669,6 +21757,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 27.94 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 27.94 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "838460c9-a4eb-4a31-a338-fb7d10d3d88d")
 		)
@@ -19689,7 +21795,7 @@
 		(at 129.54 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19730,6 +21836,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 129.54 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 129.54 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
 			(at 129.54 73.66 0)
 			(effects
 				(font
@@ -19827,6 +21951,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 248.92 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 248.92 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 248.92 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7860ee25-9b9a-442f-8c4d-544763bd493d")
 		)
@@ -19916,6 +22067,33 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 274.32 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N5819WS"
+			(at 274.32 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Guangdong Hottech"
+			(at 274.32 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9ede2249-b0f5-40f4-a011-2323f9c5abde")
 		)
@@ -19936,7 +22114,7 @@
 		(at 222.25 121.92 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "feec060d-6684-49aa-be8e-8ed34104be5e")
@@ -19985,6 +22163,24 @@
 		)
 		(property "LCSC" "C919153"
 			(at 222.25 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HPZ1608U121-2R0TF"
+			(at 222.25 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Sunlord"
+			(at 222.25 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
