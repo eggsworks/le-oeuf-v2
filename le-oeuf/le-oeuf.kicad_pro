@@ -557,12 +557,6 @@
         },
         {
           "group_by": false,
-          "label": "DNP",
-          "name": "${DNP}",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Sim.Device",
           "name": "Sim.Device",
           "show": false
@@ -596,6 +590,12 @@
           "label": "LCSC",
           "name": "LCSC",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "DNP",
+          "name": "${DNP}",
+          "show": false
         },
         {
           "group_by": false,
