@@ -493,10 +493,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "le-oeuf-v2-p1-pcbway-gerber",
+      "plot": "svg",
       "pos_files": "le-oeuf-v2-p1-pcbway-pcba/",
       "specctra_dsn": "",
-      "step": "le-oeuf.step",
+      "step": "le-oeuf-2025-02-02.step",
       "svg": "svg/",
       "vrml": ""
     },
@@ -595,20 +595,20 @@
           "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "EXCLUDE_FROM_BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "Footprint"
+      "sort_asc": true,
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {

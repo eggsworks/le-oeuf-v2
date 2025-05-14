@@ -10174,7 +10174,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "1nF"
 			(at 179.6986 144.145 90)
 			(effects
 				(font
@@ -10353,7 +10353,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05c5ab46-7a92-4193-a60f-cc93f5a8691f")
 		(property "Reference" "SW28"
@@ -10452,7 +10452,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 60.96 63.4999 90)
 			(effects
 				(font
@@ -10507,7 +10507,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 58.42 62.23 0)
 			(effects
 				(font
@@ -10516,7 +10516,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 58.42 62.23 0)
 			(effects
 				(font
@@ -10525,7 +10525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 58.42 62.23 0)
 			(effects
 				(font
@@ -10556,7 +10556,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0823f7b1-cc28-4183-845e-880baa16e7e9")
 		(property "Reference" "SW6"
@@ -10655,7 +10655,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 200.66 77.4699 90)
 			(effects
 				(font
@@ -10710,7 +10710,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 198.12 76.2 0)
 			(effects
 				(font
@@ -10719,7 +10719,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 198.12 76.2 0)
 			(effects
 				(font
@@ -10728,7 +10728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 198.12 76.2 0)
 			(effects
 				(font
@@ -10933,7 +10933,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 86.36 63.4999 90)
 			(effects
 				(font
@@ -10988,7 +10988,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 83.82 62.23 0)
 			(effects
 				(font
@@ -10997,7 +10997,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 83.82 62.23 0)
 			(effects
 				(font
@@ -11006,7 +11006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 83.82 62.23 0)
 			(effects
 				(font
@@ -11115,7 +11115,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 86.36 77.4699 90)
 			(effects
 				(font
@@ -11170,7 +11170,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 83.82 76.2 0)
 			(effects
 				(font
@@ -11179,7 +11179,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 83.82 76.2 0)
 			(effects
 				(font
@@ -11188,7 +11188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 83.82 76.2 0)
 			(effects
 				(font
@@ -11219,7 +11219,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "138e2a22-7ae0-459d-aaa4-a57a5c19cdc8")
 		(property "Reference" "SW32"
@@ -11400,7 +11400,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19e20a7f-e12b-40d5-b63c-30945e091c63")
 		(property "Reference" "SW18"
@@ -11552,7 +11552,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b47c32a-0430-40f4-9a08-a66d2626f859")
 		(property "Reference" "SW25"
@@ -11639,7 +11639,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1bc53976-8c02-4fef-ab42-3cc84811b1ec")
 		(property "Reference" "SW35"
@@ -11738,7 +11738,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 60.96 34.2899 90)
 			(effects
 				(font
@@ -11793,7 +11793,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 58.42 33.02 0)
 			(effects
 				(font
@@ -11802,7 +11802,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 58.42 33.02 0)
 			(effects
 				(font
@@ -11811,7 +11811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 58.42 33.02 0)
 			(effects
 				(font
@@ -11852,7 +11852,7 @@
 				)
 			)
 		)
-		(property "Value" "1N5819"
+		(property "Value" "1N5819W"
 			(at 106.68 180.34 0)
 			(effects
 				(font
@@ -11860,7 +11860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323"
+		(property "Footprint" "le-oeuf:D_SOD-123"
 			(at 106.68 179.07 0)
 			(effects
 				(font
@@ -11887,7 +11887,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C124187"
+		(property "LCSC" "C727115"
 			(at 106.68 183.515 0)
 			(effects
 				(font
@@ -11896,7 +11896,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "BAT760-7"
+		(property "MPN" "1N5819W"
 			(at 106.68 183.515 0)
 			(effects
 				(font
@@ -11905,7 +11905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Diodes Incorporated"
+		(property "Manufacturer" "TWGMC"
 			(at 106.68 183.515 0)
 			(effects
 				(font
@@ -12130,7 +12130,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2fc46776-f1b5-4129-8a87-1dbdd0ebda8b")
 		(property "Reference" "SW24"
@@ -12484,7 +12484,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 200.66 34.2899 90)
 			(effects
 				(font
@@ -12539,7 +12539,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 198.12 33.02 0)
 			(effects
 				(font
@@ -12548,7 +12548,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 198.12 33.02 0)
 			(effects
 				(font
@@ -12557,7 +12557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 198.12 33.02 0)
 			(effects
 				(font
@@ -12870,7 +12870,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3ff91be2-e764-4946-99bf-d70ef5130a9a")
 		(property "Reference" "J3"
 			(at 150.495 90.551 0)
@@ -13111,7 +13111,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 111.76 34.2899 90)
 			(effects
 				(font
@@ -13166,7 +13166,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 109.22 33.02 0)
 			(effects
 				(font
@@ -13175,7 +13175,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 109.22 33.02 0)
 			(effects
 				(font
@@ -13184,7 +13184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 109.22 33.02 0)
 			(effects
 				(font
@@ -13215,7 +13215,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4897766b-53c3-4014-b284-70aff1b5d60d")
 		(property "Reference" "SW17"
@@ -13314,7 +13314,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 276.86 34.2899 90)
 			(effects
 				(font
@@ -13369,7 +13369,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 274.32 33.02 0)
 			(effects
 				(font
@@ -13378,7 +13378,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 274.32 33.02 0)
 			(effects
 				(font
@@ -13387,7 +13387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 274.32 33.02 0)
 			(effects
 				(font
@@ -13430,7 +13430,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 60.96 49.5299 90)
 			(effects
 				(font
@@ -13485,7 +13485,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 58.42 48.26 0)
 			(effects
 				(font
@@ -13494,7 +13494,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 58.42 48.26 0)
 			(effects
 				(font
@@ -13503,7 +13503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 58.42 48.26 0)
 			(effects
 				(font
@@ -13546,7 +13546,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 137.16 63.4999 90)
 			(effects
 				(font
@@ -13601,7 +13601,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 134.62 62.23 0)
 			(effects
 				(font
@@ -13610,7 +13610,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 134.62 62.23 0)
 			(effects
 				(font
@@ -13619,7 +13619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 134.62 62.23 0)
 			(effects
 				(font
@@ -13650,7 +13650,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50d7d9ef-0dbb-4d1c-8635-2448e0598173")
 		(property "Reference" "SW34"
@@ -13737,7 +13737,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53c0afee-45bf-4009-bb1e-dd761bf18805")
 		(property "Reference" "SW9"
@@ -13901,7 +13901,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 175.26 63.4999 90)
 			(effects
 				(font
@@ -13956,7 +13956,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 172.72 62.23 0)
 			(effects
 				(font
@@ -13965,7 +13965,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 172.72 62.23 0)
 			(effects
 				(font
@@ -13974,7 +13974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 172.72 62.23 0)
 			(effects
 				(font
@@ -14082,7 +14082,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 35.56 49.5299 90)
 			(effects
 				(font
@@ -14137,7 +14137,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 33.02 48.26 0)
 			(effects
 				(font
@@ -14146,7 +14146,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 33.02 48.26 0)
 			(effects
 				(font
@@ -14155,7 +14155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 33.02 48.26 0)
 			(effects
 				(font
@@ -14198,7 +14198,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 111.76 49.5299 90)
 			(effects
 				(font
@@ -14253,7 +14253,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 109.22 48.26 0)
 			(effects
 				(font
@@ -14262,7 +14262,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 109.22 48.26 0)
 			(effects
 				(font
@@ -14271,7 +14271,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 109.22 48.26 0)
 			(effects
 				(font
@@ -14302,7 +14302,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c2f6dea-c77c-4c86-839f-12f981f6cf42")
 		(property "Reference" "SW36"
@@ -14645,7 +14645,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67c766fc-2155-460b-9077-fe94d967829d")
 		(property "Reference" "SW20"
@@ -14732,7 +14732,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "68ff2162-dca8-4daa-86c6-db86afc3b113")
 		(property "Reference" "J2"
 			(at 133.4262 114.2746 0)
@@ -14925,7 +14925,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N5819WS"
+		(property "Value" "1N5819W"
 			(at 35.56 63.4999 90)
 			(effects
 				(font
@@ -14980,7 +14980,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 33.02 62.23 0)
 			(effects
 				(font
@@ -14989,7 +14989,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 33.02 62.23 0)
 			(effects
 				(font
@@ -14998,7 +14998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 33.02 62.23 0)
 			(effects
 				(font
@@ -15125,7 +15125,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ef09ef9-dfcf-40fe-8706-644d48174f63")
 		(property "Reference" "SW5"
@@ -15224,7 +15224,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 137.16 34.2899 90)
 			(effects
 				(font
@@ -15279,7 +15279,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 134.62 33.02 0)
 			(effects
 				(font
@@ -15288,7 +15288,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 134.62 33.02 0)
 			(effects
 				(font
@@ -15297,7 +15297,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 134.62 33.02 0)
 			(effects
 				(font
@@ -15328,7 +15328,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7151ec16-2040-4737-8e7e-82130404c774")
 		(property "Reference" "SW13"
@@ -15427,7 +15427,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 226.06 34.2899 90)
 			(effects
 				(font
@@ -15482,7 +15482,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 223.52 33.02 0)
 			(effects
 				(font
@@ -15491,7 +15491,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 223.52 33.02 0)
 			(effects
 				(font
@@ -15500,7 +15500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 223.52 33.02 0)
 			(effects
 				(font
@@ -15531,7 +15531,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7371074f-6b93-40f5-be22-7ff91bca7678")
 		(property "Reference" "SW31"
@@ -15684,7 +15684,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74960b46-fb33-4ea1-8a63-17a566413a2b")
 		(property "Reference" "SW4"
@@ -16068,7 +16068,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 276.86 63.4999 90)
 			(effects
 				(font
@@ -16123,7 +16123,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 274.32 62.23 0)
 			(effects
 				(font
@@ -16132,7 +16132,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 274.32 62.23 0)
 			(effects
 				(font
@@ -16141,7 +16141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 274.32 62.23 0)
 			(effects
 				(font
@@ -16302,7 +16302,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84d130d1-ed27-4283-b796-827eacee4587")
 		(property "Reference" "SW7"
@@ -16401,7 +16401,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 86.36 34.2899 90)
 			(effects
 				(font
@@ -16456,7 +16456,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 83.82 33.02 0)
 			(effects
 				(font
@@ -16465,7 +16465,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 83.82 33.02 0)
 			(effects
 				(font
@@ -16474,7 +16474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 83.82 33.02 0)
 			(effects
 				(font
@@ -16505,7 +16505,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87719221-3632-4e35-9417-29b65cb4095d")
 		(property "Reference" "SW29"
@@ -16604,7 +16604,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 175.26 77.4699 90)
 			(effects
 				(font
@@ -16659,7 +16659,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 172.72 76.2 0)
 			(effects
 				(font
@@ -16668,7 +16668,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 172.72 76.2 0)
 			(effects
 				(font
@@ -16677,7 +16677,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 172.72 76.2 0)
 			(effects
 				(font
@@ -16720,7 +16720,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 226.06 63.4999 90)
 			(effects
 				(font
@@ -16775,7 +16775,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 223.52 62.23 0)
 			(effects
 				(font
@@ -16784,7 +16784,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 223.52 62.23 0)
 			(effects
 				(font
@@ -16793,7 +16793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 223.52 62.23 0)
 			(effects
 				(font
@@ -16930,7 +16930,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b60049d-af97-4b66-a11b-a7c9b151e87c")
 		(property "Reference" "SW14"
@@ -17017,7 +17017,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8d61ef93-cbac-4e2c-9232-2048c69b7510")
 		(property "Reference" "SW22"
@@ -17342,7 +17342,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 35.56 34.2899 90)
 			(effects
 				(font
@@ -17397,7 +17397,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 33.02 33.02 0)
 			(effects
 				(font
@@ -17406,7 +17406,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 33.02 33.02 0)
 			(effects
 				(font
@@ -17415,7 +17415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 33.02 33.02 0)
 			(effects
 				(font
@@ -17446,7 +17446,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "958f40e6-3c72-4c5f-b837-de5373fd438c")
 		(property "Reference" "SW30"
@@ -17664,7 +17664,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9765c09e-2533-4155-bea7-3674d5631c6b")
 		(property "Reference" "SW21"
@@ -17930,7 +17930,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 175.26 34.2899 90)
 			(effects
 				(font
@@ -17985,7 +17985,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 172.72 33.02 0)
 			(effects
 				(font
@@ -17994,7 +17994,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 172.72 33.02 0)
 			(effects
 				(font
@@ -18003,7 +18003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 172.72 33.02 0)
 			(effects
 				(font
@@ -18225,7 +18225,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e6690fc-37e0-40dd-ab8d-05d825055366")
 		(property "Reference" "SW27"
@@ -18324,7 +18324,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 111.76 63.4999 90)
 			(effects
 				(font
@@ -18379,7 +18379,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 109.22 62.23 0)
 			(effects
 				(font
@@ -18388,7 +18388,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 109.22 62.23 0)
 			(effects
 				(font
@@ -18397,7 +18397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 109.22 62.23 0)
 			(effects
 				(font
@@ -18537,7 +18537,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 200.66 49.5299 90)
 			(effects
 				(font
@@ -18592,7 +18592,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 198.12 48.26 0)
 			(effects
 				(font
@@ -18601,7 +18601,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 198.12 48.26 0)
 			(effects
 				(font
@@ -18610,7 +18610,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 198.12 48.26 0)
 			(effects
 				(font
@@ -18641,7 +18641,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a44fb357-3a31-48c4-a766-af09f9326184")
 		(property "Reference" "SW3"
@@ -18740,7 +18740,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 137.16 77.4699 90)
 			(effects
 				(font
@@ -18795,7 +18795,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 134.62 76.2 0)
 			(effects
 				(font
@@ -18804,7 +18804,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 134.62 76.2 0)
 			(effects
 				(font
@@ -18813,7 +18813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 134.62 76.2 0)
 			(effects
 				(font
@@ -18844,7 +18844,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5e3918e-1713-4547-b954-ed6610563e75")
 		(property "Reference" "SW23"
@@ -18998,7 +18998,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8e6ff01-4ab6-47e6-874d-2a1b3c16cc64")
 		(property "Reference" "SW15"
@@ -19085,7 +19085,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9a14c95-3900-4de3-8789-ace77fb064fe")
 		(property "Reference" "SW1"
@@ -19184,7 +19184,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 111.76 77.4699 90)
 			(effects
 				(font
@@ -19239,7 +19239,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 109.22 76.2 0)
 			(effects
 				(font
@@ -19248,7 +19248,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 109.22 76.2 0)
 			(effects
 				(font
@@ -19257,7 +19257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 109.22 76.2 0)
 			(effects
 				(font
@@ -19288,7 +19288,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab9fd936-548a-4eae-b8ad-1afe8ab18ddd")
 		(property "Reference" "SW12"
@@ -19387,7 +19387,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 86.36 49.5299 90)
 			(effects
 				(font
@@ -19442,7 +19442,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 83.82 48.26 0)
 			(effects
 				(font
@@ -19451,7 +19451,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 83.82 48.26 0)
 			(effects
 				(font
@@ -19460,7 +19460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 83.82 48.26 0)
 			(effects
 				(font
@@ -19557,7 +19557,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae5283bf-4358-4599-bdd9-d1ad47112944")
 		(property "Reference" "SW26"
@@ -19656,7 +19656,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 251.46 49.5299 90)
 			(effects
 				(font
@@ -19711,7 +19711,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 248.92 48.26 0)
 			(effects
 				(font
@@ -19720,7 +19720,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 248.92 48.26 0)
 			(effects
 				(font
@@ -19729,7 +19729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 248.92 48.26 0)
 			(effects
 				(font
@@ -19826,7 +19826,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1b91507-ef5b-4d16-8253-278e3e5d9ce4")
 		(property "Reference" "SW10"
@@ -19979,7 +19979,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b59579b3-275d-4b60-b368-c8ca84bb3971")
 		(property "Reference" "SW16"
@@ -20078,7 +20078,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 200.66 63.4999 90)
 			(effects
 				(font
@@ -20133,7 +20133,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 198.12 62.23 0)
 			(effects
 				(font
@@ -20142,7 +20142,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 198.12 62.23 0)
 			(effects
 				(font
@@ -20151,7 +20151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 198.12 62.23 0)
 			(effects
 				(font
@@ -20300,7 +20300,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 175.26 49.5299 90)
 			(effects
 				(font
@@ -20355,7 +20355,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 172.72 48.26 0)
 			(effects
 				(font
@@ -20364,7 +20364,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 172.72 48.26 0)
 			(effects
 				(font
@@ -20373,7 +20373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 172.72 48.26 0)
 			(effects
 				(font
@@ -20511,7 +20511,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 226.06 77.4699 90)
 			(effects
 				(font
@@ -20566,7 +20566,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 223.52 76.2 0)
 			(effects
 				(font
@@ -20575,7 +20575,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 223.52 76.2 0)
 			(effects
 				(font
@@ -20584,7 +20584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 223.52 76.2 0)
 			(effects
 				(font
@@ -20627,7 +20627,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 251.46 63.4999 90)
 			(effects
 				(font
@@ -20682,7 +20682,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 248.92 62.23 0)
 			(effects
 				(font
@@ -20691,7 +20691,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 248.92 62.23 0)
 			(effects
 				(font
@@ -20700,7 +20700,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 248.92 62.23 0)
 			(effects
 				(font
@@ -20731,7 +20731,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4871742-75d8-47b4-a996-1331c2b34407")
 		(property "Reference" "SW8"
@@ -20957,7 +20957,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d8bb7a69-580e-4a69-9d16-d9c5fb3d8465")
 		(property "Reference" "J4"
 			(at 137.287 96.0882 0)
@@ -21157,7 +21157,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 226.06 49.5299 90)
 			(effects
 				(font
@@ -21212,7 +21212,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 223.52 48.26 0)
 			(effects
 				(font
@@ -21221,7 +21221,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 223.52 48.26 0)
 			(effects
 				(font
@@ -21230,7 +21230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 223.52 48.26 0)
 			(effects
 				(font
@@ -21355,7 +21355,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3abcff5-068b-429a-a5c5-6580e79fa526")
 		(property "Reference" "SW19"
@@ -21519,7 +21519,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 137.16 49.5299 90)
 			(effects
 				(font
@@ -21574,7 +21574,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 134.62 48.26 0)
 			(effects
 				(font
@@ -21583,7 +21583,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 134.62 48.26 0)
 			(effects
 				(font
@@ -21592,7 +21592,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 134.62 48.26 0)
 			(effects
 				(font
@@ -21623,7 +21623,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef885917-e3ca-41fc-bfe3-70c407c08ff8")
 		(property "Reference" "SW2"
@@ -21710,7 +21710,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f276e09b-cc7f-46a6-939c-e2385b3665d0")
 		(property "Reference" "SW11"
@@ -21797,7 +21797,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3afe4a9-3bdc-4332-8e6f-1ee46c034aab")
 		(property "Reference" "SW33"
@@ -21896,7 +21896,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 251.46 34.2899 90)
 			(effects
 				(font
@@ -21951,7 +21951,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 248.92 33.02 0)
 			(effects
 				(font
@@ -21960,7 +21960,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 248.92 33.02 0)
 			(effects
 				(font
@@ -21969,7 +21969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 248.92 33.02 0)
 			(effects
 				(font
@@ -22012,7 +22012,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N4148W"
+		(property "Value" "1N5819W"
 			(at 276.86 49.5299 90)
 			(effects
 				(font
@@ -22067,7 +22067,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C191023"
+		(property "LCSC" "C727115"
 			(at 274.32 48.26 0)
 			(effects
 				(font
@@ -22076,7 +22076,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "1N5819WS"
+		(property "MPN" "1N5819W"
 			(at 274.32 48.26 0)
 			(effects
 				(font
@@ -22085,7 +22085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Guangdong Hottech"
+		(property "Manufacturer" "TWGMC"
 			(at 274.32 48.26 0)
 			(effects
 				(font
