@@ -1,6 +1,16 @@
-## Le Oeuf
+## L'oeuf
 
 An ultra-low profile (Kailh PG1316S) keyboard inspired by Le Chiffre.
+
+![](images/oeuf-3.jpg)
+
+## PCB
+
+L'oeuf is a semi-integrated PCB using an E73 BLE module. It is intended to be fully SMT assembled.
+
+![](images/pcb.png)
+
+A mid-mount USB-C port and JST ACH battery connector keep the board as thin as possible.
 
 ## Firmware
 
